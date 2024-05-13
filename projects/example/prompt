@@ -1,1 +1,49 @@
-We are writing snake in python. MVC components split in separate files. Keyboard control.
+App Name: Cusmato
+
+Description:
+Cusmato is a user-friendly LLMOps (Language Model Operations) platform designed to empower individuals in creating sustainable, AI-native applications. It offers visual orchestration for various application types, providing ready-to-use applications that double as Backend-as-a-Service APIs. With Cusmato, unify your development process using a single API for plugin integration and knowledge incorporation, streamlining operations with an intuitive interface for prompt engineering, visual analytics, and continuous improvement.
+
+Features:
+
+Prompt Engineering:
+
+Seamlessly upload text files or bind data sources to the platform for prompt engineering.
+Data Preparation and Embedding:
+
+Easily upload text or bind data sources to the platform for data preparation and embedding.
+Application Logging and Analysis:
+
+Real-time logging and analysis of application performance are provided within the platform.
+Data Analysis and Fine-Tuning:
+
+Non-technical personnel can collaborate and visually adjust AI model parameters for fine-tuning.
+Advanced AI Workflow Automation:
+
+Automate AI workflows to streamline processes and enhance efficiency.
+AI Plugin Development and Integration:
+
+Visual tools are available for creating and seamlessly integrating plugins into your applications.
+Copilot Studio:
+
+Create AI-driven conversational agents (Copilots) in minutes using an intuitive graphical interface.
+Use Cases:
+
+Customer Service Reimagined:
+
+AI support resolves common inquiries faster, leveraging insights from past support tickets to enrich the knowledge base.
+Customer Support AI:
+
+Implement AI-driven solutions to enhance customer support services.
+Intelligent Talent Acquisition:
+
+Automate job/CV parsing and skills matching, along with scheduling and coordinating interviews.
+AI for HR & Recruiting:
+
+Enhance HR and recruiting processes with AI-driven solutions.
+Secure Contract Management:
+
+Utilize anomaly detection to ensure proper contract fulfillment and adherence to requirements.
+AI-Powered Financial Analysis:
+
+Conduct AI analysis of financial reports, statements, and market data for informed decision-making.
+Cusmato provides a comprehensive platform for creating, monitoring, and optimizing AI-driven applications across various domains, offering a unified solution for prompt engineering, visual analytics, and continuous improvement.
